@@ -1,6 +1,7 @@
 # Custom_SliderView
 
-# You can customise own slider menu
+
+You can customise own slider menu
 
    show and hide navigation bar 
    
