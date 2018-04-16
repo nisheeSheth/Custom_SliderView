@@ -10,7 +10,9 @@ You can customise own slider menu
    show icon right side 
    
 
-In you project put CustomSliderView.swift download form my Project.
+
+In you project put "CustomSliderView.swift" download form my Project.
+
 
 file reference in your viewController like this way :- 
 
