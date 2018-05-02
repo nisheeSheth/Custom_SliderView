@@ -16,7 +16,6 @@ I have impliment custom sliderview in swift 4.Using this Library you can make sl
  
  ``` 
  var sliderMenu : CustomSliderView = CustomSliderView.getCustomSliderMenus();
- 
  ```
  
  Use this like in project:
@@ -25,7 +24,6 @@ I have impliment custom sliderview in swift 4.Using this Library you can make sl
  sliderMenu.shownavigation = true
  sliderMenu.rightSideIcon = true
  sliderMenu.rigthsideSlider = true
- 
 ```
 
 
