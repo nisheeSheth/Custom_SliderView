@@ -9,12 +9,23 @@ I have impliment custom sliderview in swift 4.Using this Library you can make sl
    show menu right side 
    
    show icon right side
-   
-In you project put ```CustomSliderView.swift``` download form my Project.
-
-
-file reference in your viewController like this way :- 
+ 
+ ## Usage
+ 
+ Create file reference in your viewController:
+ 
+ ``` 
+ var sliderMenu : CustomSliderView = CustomSliderView.getCustomSliderMenus();
+ 
+ ```
+ 
+ Use this like in project:
+ 
+ ```
+ sliderMenu.shownavigation = true
+ sliderMenu.rightSideIcon = true
+ sliderMenu.rigthsideSlider = true
+ 
 ```
-var sliderMenu : CustomSliderView = CustomSliderView.getCustomSliderMenus();
 
-```
+
