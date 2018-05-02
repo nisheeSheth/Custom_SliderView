@@ -9,7 +9,6 @@ I have impliment custom sliderview in swift 4.Using this Library you can make sl
    show menu right side 
    
    show icon right side
-   ```SkeletonView``` 
    
 In you project put ```CustomSliderView.swift``` download form my Project.
 
