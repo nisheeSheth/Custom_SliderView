@@ -1,6 +1,6 @@
 # Custom_SliderView
 
-I have impliment custom sliderview in swift 4.Using this Library you can make sliderMenu fro your project.
+I have implement custom sliderview in swift4. Using this Library you can make sliderMenu for your project.
 
 ## You can customise own slider menu
 
